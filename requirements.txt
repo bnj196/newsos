@@ -1,0 +1,8 @@
+websockets>=12.0
+pycryptodome>=3.20.0
+munch>=4.0.0
+colorama>=0.4.6
+requests>=2.31.0
+aiohttp>=3.9.0
+python-dotenv>=1.0.0
+flask>=3.0.0
